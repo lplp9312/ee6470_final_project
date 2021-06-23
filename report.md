@@ -3,9 +3,9 @@
 ## Principal Component Analysis and Two-layer Neural Network
 
 ### Task : classify three kinds of fruits
-#### Carambula
-#### Lychee
-#### Pear
+#### 1.Carambula
+#### 2.Lychee
+#### 3.Pear
 #### Each image 32 x 32 (1024) pixels
 ![image](https://github.com/lplp9312/ee6470_final_project/blob/master/picture/task.jpg)
 
